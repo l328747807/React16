@@ -5,7 +5,6 @@ class Diancan extends Component {
         return (
             <>
                 <div>
-                    {' '}
                     <input type="button" value="增加类型" />
                 </div>
                 <ul>
